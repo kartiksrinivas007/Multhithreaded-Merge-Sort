@@ -7,6 +7,7 @@
 #include<time.h>
 
 
+
 typedef struct 
 {
 	double *array;
