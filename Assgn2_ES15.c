@@ -7,7 +7,7 @@
 #include<time.h>
 
 
-
+//voi'la this is the second commit !
 typedef struct 
 {
 	double *array;
