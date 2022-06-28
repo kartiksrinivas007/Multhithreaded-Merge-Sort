@@ -1,4 +1,4 @@
-# Multhithreaded-Merge-Sort
+# Multithreaded-Merge-Sort
 Analysis of Multi threaded And single threaded Merge Sort Algorithms On a 6 core Machine.
 
 
