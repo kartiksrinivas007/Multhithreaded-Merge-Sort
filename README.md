@@ -22,9 +22,9 @@ Running(UNIX OS ON TERMINAL) :
 ```
 ./assgn2
 ```
+Input `1` for accepting the number of threads and testing the program 
+Input `2` for time Analysis on randomly generated Arrays
 
-PLEASE INPUT THE NUMBER 1 FOR ACCEPTING NUMBER OF THREADS AND TESTING THE PROGRAM
-PLEASE INPUT THE NUMBER 2 FOR SEEING THE TIME IT TAKES ON RANDOMLY GENERATED ARRAYS
 
 the file `SortedArrays.txt` will be generated in your directory in case 1 containing the sorted array
 
