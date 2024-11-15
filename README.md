@@ -2,7 +2,7 @@
 ## Analysis of Multi threaded merge sort on a 6 core Machine.
 
 This is a simple implementation of the merge sort algorithm with multiple threads.
-There are ttwo modes of execution for analyzing the effects of multiple threads -- the first mode takes an input from the user and performs a multithreaded merge sort. The second generates random arrays of variable size and reports statistics on the amount of time taken.
+There are two modes of execution for analyzing the effects of multiple threads -- the first mode takes an input from the user and performs a multithreaded merge sort. The second generates random arrays of variable size and reports statistics on the amount of time taken.
 
 Please see `report.pdf` for the analysis.
 
