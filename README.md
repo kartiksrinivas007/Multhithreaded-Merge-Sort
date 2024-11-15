@@ -1,30 +1,23 @@
 # Multithreaded-Merge-Sort
-## Analysis of Multi threaded And single threaded Merge Sort Algorithms On a 6 core Machine.
+## Analysis of Multi threaded merge sort on a 6 core Machine.
 
+This is a simple implementation of the merge sort algorithm with multiple threads.
+There are ttwo modes of execution for analyzing the effects of multiple threads -- the first mode takes an input from the user and performs a multithreaded merge sort. The second generates random arrays of variable size and reports statistics on the amount of time taken.
 
-This program has several functions.Each is explained in detail in the report file.
-The C program contains 2 parts, Namley Input analysis and Time Analysis. 
-The Input Analysis accepts the number of threads from user and performs a Multithreaded merge sort on the array given by the user.
-Time Analysis generates Random arrays of huge size and then runs both sequential and multithreaded merge sort and finds the time taken by each of them to sort the array.
+Please see `report.pdf` for the analysis.
 
-# Method 
----
 Compilation on UNIX OS : 
-
-
 Compilation : 
 ```
 gcc -o assgn2 Assgn2_ES15.c -lrt -pthread
 ```
 
 Running(UNIX OS ON TERMINAL) : 
-
 ```
 ./assgn2
 ```
 Input `1` for accepting the number of threads and testing the program 
 Input `2` for time Analysis on randomly generated Arrays
-
 
 the file `SortedArrays.txt` will be generated in your directory in case 1 containing the sorted array
 
